@@ -3,7 +3,7 @@
 This project is part of my internship at Prodigy InfoTech.
 
 ## Task Description
-Build a temperature conversion program that converts values between:
+Build a temperature conversion program that converts values between :
 - Celsius
 - Fahrenheit
 - Kelvin
